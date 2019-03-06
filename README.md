@@ -31,5 +31,5 @@ $ jupyter notebook demo.ipynb
 
 ## Generate static slides
 ```
-jupyter nbconvert --to slides demo.ipynb
+$ jupyter nbconvert --to slides demo.ipynb
 ```
